@@ -1,0 +1,47 @@
+DEBUG:root:This is debug message
+INFO:root:This is ingo message
+WARNING:root:This is warning message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+
+
+2021-04-05 18:20:07,142: DEBUG: This is debug message
+2021-04-05 18:20:07,160: INFO: This is ingo message
+2021-04-05 18:20:07,160: WARNING: This is warning message
+2021-04-05 18:20:07,160: ERROR: This is error message
+2021-04-05 18:20:07,160: CRITICAL: This is critical message
+
+04052021 06:24:58 PM: DEBUG: This is debug message
+04052021 06:24:58 PM: INFO: This is ingo message
+04052021 06:24:58 PM: WARNING: This is warning message
+04052021 06:24:58 PM: ERROR: This is error message
+04052021 06:24:58 PM: CRITICAL: This is critical message
+
+04-05-2021 06:25:48 PM: DEBUG: This is debug message
+04-05-2021 06:25:48 PM: INFO: This is ingo message
+04-05-2021 06:25:48 PM: WARNING: This is warning message
+04-05-2021 06:25:48 PM: ERROR: This is error message
+04-05-2021 06:25:48 PM: CRITICAL: This is critical message
+
+04-05-2021 06:26:16 PM: DEBUG: This is debug message
+04-05-2021 06:26:16 PM: INFO: This is ingo message
+04-05-2021 06:26:16 PM: WARNING: This is warning message
+04-05-2021 06:26:16 PM: ERROR: This is error message
+04-05-2021 06:26:16 PM: CRITICAL: This is critical message
+
+04-05-2021 07:14:07 PM: DEBUG: This is debug message
+04-05-2021 07:14:07 PM: INFO: This is ingo message
+04-05-2021 07:14:07 PM: WARNING: This is warning message
+04-05-2021 07:14:07 PM: ERROR: This is error message
+04-05-2021 07:14:07 PM: CRITICAL: This is critical message
+
+04/05/2021 07:14:50 PM: DEBUG: This is debug message
+04/05/2021 07:14:50 PM: INFO: This is ingo message
+04/05/2021 07:14:50 PM: WARNING: This is warning message
+04/05/2021 07:14:50 PM: ERROR: This is error message
+04/05/2021 07:14:50 PM: CRITICAL: This is critical message
+04/14/2021 01:27:26 PM: DEBUG: This is debug message
+04/14/2021 01:27:27 PM: INFO: This is ingo message
+04/14/2021 01:27:27 PM: WARNING: This is warning message
+04/14/2021 01:27:27 PM: ERROR: This is error message
+04/14/2021 01:27:27 PM: CRITICAL: This is critical message
